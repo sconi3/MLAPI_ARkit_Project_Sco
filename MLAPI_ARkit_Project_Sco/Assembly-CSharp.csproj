@@ -64,7 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Main\Script\MenuScript.cs" />
+    <Compile Include="Assets\_Main\Script\PlayerHealth.cs" />
     <Compile Include="Assets\_Main\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\_Main\Script\PlayerShooting.cs" />
     <None Include="Assets\MLAPI\Lib\MLAPI.xml" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Program Files/Unity/Unity_2019.3.13_Cr/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
